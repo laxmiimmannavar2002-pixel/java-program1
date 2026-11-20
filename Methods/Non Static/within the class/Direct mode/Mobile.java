@@ -1,4 +1,4 @@
-class Mobile {
+ class Mobile {
 
     public void displayBrand() {
         System.out.println("Brand: Samsung");

@@ -10,4 +10,4 @@ class Employee {
     public static void main(String[] args) {
         new Employee().displayEmployee();
     }
-}
+} 
