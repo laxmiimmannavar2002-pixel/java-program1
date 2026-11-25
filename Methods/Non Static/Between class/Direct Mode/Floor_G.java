@@ -1,4 +1,4 @@
-//WAP to access the non-static members b/w the class using a direct mode
+ //WAP to access the non-static members b/w the class using a direct mode
 
 class Floor_1 {
 	public void Display1(){

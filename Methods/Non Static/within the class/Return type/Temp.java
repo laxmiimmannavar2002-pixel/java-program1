@@ -2,7 +2,6 @@
 // f= (c*1.8)+32
 
 
-
 class Temp{
     public double Convert(double c) {
         double f = (c*1.8)+32;

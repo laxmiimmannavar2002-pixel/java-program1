@@ -1,4 +1,4 @@
-public class Student {
+  public class Student {
 
     int calculateTotal(int mark1, int mark2, int mark3) {
         return mark1 + mark2 + mark3;
